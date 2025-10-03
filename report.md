@@ -10,7 +10,7 @@
 7. Disconnected VPN and compared speed + IP.
 
 ## Screenshots
-- VPN Connected: screenshots/connected traffic.jpg
+- VPN Connected: screenshots/connected_traffic.jpg
 - VPN Disconnected: screenshots/disconnected_traffic.jpg
 
 ## VPN Encryption & Privacy Features
